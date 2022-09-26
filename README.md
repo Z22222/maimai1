@@ -19,7 +19,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 天气：{{weather.DATA}}  
 最低气温: {{min_temperature.DATA}}  
 最高气温: {{max_temperature.DATA}}  
-爱你的第{{love_day.DATA}}天
+爱你的第:{{love_day.DATA}}天
 
 
 天气key生成教程
